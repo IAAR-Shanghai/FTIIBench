@@ -2,7 +2,6 @@
 **(ARXIV24)** This is the official code repository for *"FTII-Bench: A Comprehensive Multimodal Benchmark for Flow Text with Image Insertion."*
 
 ## Dataset
-Our FTII-Bench of CN and EN type could be found in ./ftii_data/
 
 The text of FTII-Bench could be download from [Google Drive](https://drive.google.com/file/d/1QWfZ4laKEdVBKwu9AwZ_X7tN0B5r3U-x/view?usp=sharing)
 
