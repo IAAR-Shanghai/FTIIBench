@@ -3,9 +3,7 @@
 
 ## Dataset
 
-The text of FTII-Bench could be download from [Google Drive](https://drive.google.com/file/d/1QWfZ4laKEdVBKwu9AwZ_X7tN0B5r3U-x/view?usp=sharing)
-
-The images of FTII-Bench could be download from [Google Drive](https://drive.google.com/file/d/1eDGu-zsDYDvK_Y_mUmYV-npyceT_ur8f/view?usp=sharing)
+The text and images of FTII-Bench could be download from [Baidu Drive](https://pan.baidu.com/s/1ujROnxZCHi3ezz2-Etcvyg?pwd=wn7a)
 
 ### **Note that the data is only used for research purposes!**
 
